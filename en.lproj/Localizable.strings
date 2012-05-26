@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  AdvancedTableViewCells
+
+  Created by ramonqlee on 8/24/11.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+"Title"="Humer";
+"About"="Version V3.1.3 IDreems.com Presents";
+
+
+"Back" = "Back";
+"AboutTitle"="About";
+"Done" = "Back";
+"Donate"="More";
+"DonateBody"="Find and get more amazing applications here";
+"EmailAlertViewTitle" = "Email";
+"EmailAlertViewMsg" = "Email sent successfully!";
+"EmailAlertViewCanSendMail" = "Please configure your device before sending mail!";
+"Ok" = "Ok";
+"ShareTip"="Share this article?";
+"YoumiWallTitle"="Tip";
+"YoumiWallMsg"="Make more points for free to read more article?";
+"NewVersion"="New version available";

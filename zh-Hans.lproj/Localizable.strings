@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  AdvancedTableViewCells
+
+  Created by ramonqlee on 8/24/11.
+  Copyright 2011 __MyCompanyName__. All rights reserved.
+*/
+"Title"="搞笑集锦";
+"About"="版本V3.1.3  iDreems.com荣誉出品";
+
+
+"Back" = "返回";
+"AboutTitle"="关于";
+"Done" = "返回";
+"Donate"="推荐";
+"DonateBody"="给您推荐更多精彩应用。";
+"EmailAlertViewTitle" = "电子邮件";
+"EmailAlertViewMsg" = "已成功送达收件人!";
+"EmailAlertViewCanSendMail" = "请检查并配置您的邮件设置，确保可以发送电子邮件!";
+"Ok" = "确定";
+"ShareTip"="分享当前美文？";
+"YoumiWallTitle"="积分不足";
+"YoumiWallMsg"="您的积分不足，将不能阅读第十篇之后的文章，马上进入免费赚取积分?";
+"NewVersion"="检测到新版本，是否升级？";
